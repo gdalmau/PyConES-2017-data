@@ -1,4 +1,4 @@
-# PyConES 2016
+# PyConES 2017
 
 A list with all known documentation. Feel free to PR it with more data ^^
 
